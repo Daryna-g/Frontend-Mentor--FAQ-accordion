@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-solution-r7C9IjFgs_)
-- Live Site URL: [Live Site](https://daryna-g.github.io/Frontend-Mentor--Results-summary-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/faq-accordion-1XXY7L4Bw5)
+- Live Site URL: [Live Site](https://daryna-g.github.io/Frontend-Mentor--FAQ-accordion/)
 
 ## My process
 
